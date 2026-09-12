@@ -1,5 +1,4 @@
 fastapi
-gradio
 duckdb
 httpx
 uvicorn
